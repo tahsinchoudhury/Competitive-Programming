@@ -1,2 +1,2 @@
 # Competitive-Programming
-I will store my implementations of DSA and the code of the solved problems here.
+This repository will contain my C++ implementations of different algorithms and solutions of different problems in several Online Judges.
